@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
     "OrganizationName": "IANR"
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/MinecraftRainbow/IANR/main/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/MinecraftRainbow/IANR/main/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/MinecraftRainbow/IANR/main/subjects.json",
+        "Version": 1
+    }
 }
